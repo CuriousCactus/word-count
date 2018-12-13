@@ -25,7 +25,9 @@ Generate all results:
 Snakemake
 ---------
 
-Write me ...
+::
+
+  $ snakemake
 
 
 Where to find the results
